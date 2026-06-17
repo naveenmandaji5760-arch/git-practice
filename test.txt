@@ -1,2 +1,13 @@
-Testing Git and GitHub
-Learning for Hackathon
+My Name: Naveen Mandaji
+
+Learning Git and GitHub
+
+Commands Learned:
+1. git init
+2. git status
+3. git add
+4. git commit
+5. git push
+
+Goal:
+Learn Git, GitHub, Python, Playwright and build a Hackathon Project.
