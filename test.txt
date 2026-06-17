@@ -1,1 +1,2 @@
-Hello git
+Testing Git and GitHub
+Learning for Hackathon
