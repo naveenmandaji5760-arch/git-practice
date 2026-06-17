@@ -1,0 +1,9 @@
+Hackathon Project
+
+Module 1: Career Navigator
+Module 2: Employee Directory AI Search
+
+Future Enhancements:
+- Resume Analysis
+- Skill Gap Analysis
+- Career Recommendations
